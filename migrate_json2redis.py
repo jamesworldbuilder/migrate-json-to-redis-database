@@ -96,7 +96,7 @@ def migrate_scores():
             for player, score in top_scores:
                 print(f"  - Player: {player}, Score: {score}")
         else:
-            print("❌ VERIFICATION FAILED. The write operation did not save the data to Redis")
+            print("❌ VERIFICATION FAILED! The write operation did not save the data to Redis")
     except Exception as e:
         print(f"❌ An error occurred during verification: {e}")
 
