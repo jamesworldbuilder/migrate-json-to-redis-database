@@ -6,7 +6,7 @@ import json
 # External Value Key URL
 REDIS_URL = "rediss://XXXXXXX@location-keyvalue.render.com:port" # Example: Render.com value
 # The clean JSON file we created
-JSON_FILE_PATH = "./tetris-leaderboard.json"
+JSON_FILE_PATH = "./example-tetris-leaderboard-export.json"
 # The Redis Key Value Name
 LEADERBOARD_KEY = "tetris-leaderboard"
 
