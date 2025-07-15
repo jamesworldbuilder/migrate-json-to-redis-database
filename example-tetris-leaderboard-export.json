@@ -1,0 +1,17 @@
+{
+  "__collections__": {
+    "tetris-leaderboard": {
+      "39b807ca081c4fd2a816": {
+        "name": "JLF",
+        "score": 450,
+        "timestamp": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1751485495,
+            "_nanoseconds": 235717000
+          }
+        }
+      }
+    }
+  }
+}
